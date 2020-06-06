@@ -9,6 +9,9 @@ However, it's also a place where people with ill-intentions come to spread hatre
 
 YouTubers will also feel that those degrading and mentally-harmful comments are targeted at them. The Youtube community will also get affected by these discriminatory comments against them. This chrome extension will be useful to make the Youtube community a more safer place.
 
+## How it works
+The extension parses the HTML page in sequence locating all the Youtube comments containing carefully selected abusive words. It replaces them with a message showing the type of comment and the censored word. Ex : "A (violent) comment has been found. The sentence includes : "(gore)" "  
+
 ## Installation
 1. Clone or download this repository into a folder
 2. Go to chrome://extensions/
